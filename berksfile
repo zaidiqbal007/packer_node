@@ -1,0 +1,3 @@
+source 'https://supermarket.chef.io'
+
+cookbook 'chef_getting_started_2', git: 'git@github.com:jfarmer864/node.git'
